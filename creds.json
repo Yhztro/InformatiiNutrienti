@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "informatii-nutritive",
+  "private_key_id": "8eccc68e0f1978bd8bd9521fd60bda28c012dd48",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFeVWwJ7vcrFCG\neqzmPLLejh+Voe/bF51YZuITNY33oHBR3bOPlNmqvK+lpR0fo6eslK1NonpiFnjN\nXZpS2XuFWoxTYMBEfgwkeKdwg+Ic/3vGYPd0EsHsnV+c0BJ2JKQiCmlA4F6+hnue\nr+rbb97hEI+8+cA+CRbI8cZqp/fXWFT3uSNpLsdMbjMJ04T5GSgtaUVfxKL701/f\nEpmPPmr9FIqGmr69EoVek8NQyhv9yqJ+YYPcJ5vuyiyRAbeN5l/mWkmCgg3OUbFZ\n8xAPy6qfUEbE6AKKkg0Lude8ZJ15emRyoFJ7GapDAcSlCg3gp/D0KEft48IMqfRD\ntzRtXjNRAgMBAAECggEAAqakHw3oWsg9Hn/lzwNwTUZnAySU4TjaJdG7LxHU6GtQ\n4h4tS45cNNSheibcN5W7Dm/5X1M3szquJFVYRsyXnWhR2O6xyFmaQtddPBGoBsah\nPBmY/6xn7sK7ge1Vbq8Dqw4s3flOQN6pKOSx0YB0mkpwsmWIxTWRT/NoqbJOjadr\ngObkEjl6gVuVXLj+lkNjW57/WaLy/pc2zNm0fmKhjcQfFmb/v/Gvfv/1AYnh9Tj/\n4tJ1qdPhVm+k05Re0FK1VI2goqQxiOvXQyow/mO4z4XpuKBfzNQAAGuhZhAGW2T6\niBibN7niNrYoW1F78nP5w16zi62RSjvXYTu9///K5wKBgQDxmQ6/dkbK6zqtffc4\nmKA1o2wFY8WzKnCxQjt9fMdFrgtZHObWxYWAVBBklrUpZnl8KmpM++fCA7z1mBCn\n+0VBZjcK7Pau85ilSTYsPN7zsn+5ByU8nhDmzM2GE1Nvry9QZhiVXmPAJf6ccdj0\n/dDqIblIAnJw19L4S6hYPzPXfwKBgQDRPurJt3guxFEDTlwoAzMo/bzJFH8d7Teg\nxbivbVw/cZc73Eg4VejXXZoAne5E4xE6KqEMBLE+Zrk2HhvoUTxP9BBb6mo1uwAo\nuapIkAUJSML5Cf2X3o3V9V7knIkgqEE/ggZzytp4hTMmG5XoKkxKf75GVJQD96zM\n+YowPq/dLwKBgQC7P6+IgTk5CLu/v4Oen9x79h9AxiVySZByMi09gzpHLS+qb5YS\nG6Du5ziVXaEnZz79FzqwVAU5//+yMZunNj5lA73hf+tpiW9jm6ya+MqsAkqvs3QO\n2UusNkuMgOoIA7UeESM4kaGqSUhfJHXM2/PRozWhNBRSlVP0EV92lfWuLQKBgBzl\n3pErOHrk+/dD7DBOeNNRb7Apl4CvkT4v8Fix9sqASo2m14aIPtb3g1xQc2aqIWfy\nGTnKsBvZHf0eXWZRSc4U++llz3NKNzRop97LnRZyKRMx0QcXYmlJMOjLwZh0BEbc\nEz4Mpu18H9tEdgiRRuYHDGU0Kxj9LK1GTVJqZelbAoGBALIKyKNWNcgBOiZblfnz\nOkOLh1fV6gjmBhraF71P6XbkBxb35JHzQx/KbgMm2/OBKdTJIjeZNMFH0MDP7mEr\neaq9M7cHOTnTG3YUx6MqSwwK5exKIhlgNyP1TmdOqfOQ51aKK6bNSY9+troOC3My\ncTFhPQEc1fG2fD6sen57BRl5\n-----END PRIVATE KEY-----\n",
+  "client_email": "accesinformatiinutritive@informatii-nutritive.iam.gserviceaccount.com",
+  "client_id": "101057535754295785164",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accesinformatiinutritive%40informatii-nutritive.iam.gserviceaccount.com"
+}
