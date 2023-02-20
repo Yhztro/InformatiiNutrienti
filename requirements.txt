@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 gspread
-random
 requests
 altair
-PIL
+Pillow
