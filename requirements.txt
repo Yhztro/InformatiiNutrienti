@@ -1,8 +1,8 @@
-altair
-gspread
-numpy
-pandas
-Pillow
-requests
 streamlit
-~umpy
+pandas
+numpy
+gspread
+random
+requests
+altair
+PIL
