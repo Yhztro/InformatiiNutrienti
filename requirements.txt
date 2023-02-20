@@ -1,0 +1,8 @@
+altair==4.2.2
+gspread==5.7.2
+numpy==1.24.2
+pandas==0.25.1
+Pillow==9.4.0
+requests==2.22.0
+streamlit==1.18.1
+~umpy==1.16.5
